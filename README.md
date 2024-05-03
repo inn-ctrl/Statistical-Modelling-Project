@@ -4,7 +4,8 @@
 (fill in your description and goals here)
 
 ## Process
-### (your step 1)
+### (your step 1) 
+- Set up the project in jupyter notebook 
 ### (your step 2)
 
 ## Results
