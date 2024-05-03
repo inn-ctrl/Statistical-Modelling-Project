@@ -5,7 +5,7 @@
 
 ## Process
 ### (your step 1) 
-
+--populated the project in jupyter notebook
 ### (your step 2)
 
 ## Results
