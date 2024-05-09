@@ -2,6 +2,9 @@
 
 ## Project/Goals
 (fill in your description and goals here)
+* This project aims at studying the underlying relationship between London restaurants and various bike stations. I will use statistical modelling to find patterns in the datasets using various APIs. These patterns should lead to the regressional analysis that shows the underlying relationship between the two variables.
+  
+* Project goals: 
 * Compare various APIs and distinguish them based on business requirements
 * Fine-tune dataset from combined APIs for readiness in future use
 * Perform a regression model on the dataset and provide analysis
@@ -14,7 +17,6 @@
 * Finally, I transofrmed all the dataframes into excel sheets just in case I would need to import them for future use - which turned out to be the case.
 
 #Comparing Yelp and Foursquare APIs
-#
 * Yelp API and Foursqure APIs provide almost similary information (points of interests in London). but the following observations made me choose Yelp API:
 * Yelp provides data that fits the need more (restaurants in locality)
 * Yelp provides data that are more quantititive
